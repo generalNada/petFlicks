@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pet Flicks</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&family=Syne:wght@700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <p class="eyebrow">Local library</p>
+        <h1 class="brand">Pet Flicks</h1>
+        <p class="lede">
+          Pet Things only — toggle a genre or show collection, pick a title,
+          play.
+        </p>
+      </header>
+
+      <section class="filters" aria-label="Filters">
+        <div class="filter-block">
+          <h2 class="filter-label">Genres</h2>
+          <div
+            id="genre-toggles"
+            class="toggle-row"
+            role="group"
+            aria-label="Genre toggles"
+          ></div>
+        </div>
+        <div class="filter-block">
+          <h2 class="filter-label">Shows &amp; collections</h2>
+          <div
+            id="show-toggles"
+            class="toggle-row"
+            role="group"
+            aria-label="Show toggles"
+          ></div>
+        </div>
+      </section>
+
+      <section class="library" aria-live="polite">
+        <div class="library-head">
+          <h2 id="results-heading">Titles</h2>
+          <p id="results-meta" class="meta">
+            Toggle something above to browse.
+          </p>
+        </div>
+        <ul id="title-list" class="title-list"></ul>
+      </section>
+    </div>
+
+    <aside id="player-panel" class="player-panel" hidden>
+      <div class="player-shell">
+        <div class="player-top">
+          <div>
+            <p class="player-kicker">Now playing</p>
+            <h2 id="player-title" class="player-title">—</h2>
+            <p id="player-sub" class="player-sub"></p>
+          </div>
+          <button
+            type="button"
+            id="player-close"
+            class="icon-btn"
+            aria-label="Close player"
+          >
+            ✕
+          </button>
+        </div>
+
+        <video id="video" playsinline></video>
+
+        <div class="controls">
+          <button
+            type="button"
+            id="btn-play"
+            class="control-btn"
+            aria-label="Play"
+          >
+            Play
+          </button>
+          <div class="progress-wrap">
+            <input
+              type="range"
+              id="progress"
+              class="progress"
+              min="0"
+              max="1000"
+              value="0"
+              step="1"
+              aria-label="Playback progress"
+            />
+            <div class="time-row">
+              <span id="time-current">0:00</span>
+              <span id="time-duration">0:00</span>
+            </div>
+          </div>
+          <button
+            type="button"
+            id="btn-fullscreen"
+            class="control-btn"
+            aria-label="Fullscreen"
+          >
+            Full screen
+          </button>
+          <button
+            type="button"
+            id="btn-download"
+            class="control-btn control-btn--accent"
+            aria-label="Download"
+          >
+            Download
+          </button>
+        </div>
+      </div>
+    </aside>
+
+    <div id="download-modal" class="modal" hidden>
+      <div
+        class="modal-card"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="download-modal-title"
+      >
+        <h3 id="download-modal-title">Download this title?</h3>
+        <p id="download-modal-body" class="modal-body"></p>
+        <div class="modal-actions">
+          <button type="button" id="download-cancel" class="control-btn">
+            Cancel
+          </button>
+          <button
+            type="button"
+            id="download-confirm"
+            class="control-btn control-btn--accent"
+          >
+            Download
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Stub so genre files with module.exports still load in the browser -->
+    <script>
+      window.module = { exports: {} };
+      window.exports = window.module.exports;
+    </script>
+    <script src="genres/flicksActionAdventure.js"></script>
+    <script src="genres/flicksActionComedy.js"></script>
+    <script src="genres/flicksBlackComedy.js"></script>
+    <script src="genres/flicksComedy.js"></script>
+    <script src="genres/flicksCrimeDrama.js"></script>
+    <script src="genres/flicksDocumentary.js"></script>
+    <script src="genres/flicksDrama.js"></script>
+    <script src="genres/flicksFranky.js"></script>
+    <script src="genres/flicksHindu.js"></script>
+    <script src="genres/flicksHorror.js"></script>
+    <script src="genres/flicksMusic.js"></script>
+    <script src="genres/flicksMysterySuspense.js"></script>
+    <script src="genres/flicksRandos.js"></script>
+    <script src="genres/flicksShows.js"></script>
+    <script src="genres/flicksSports.js"></script>
+    <script src="genres/flicksThriller.js"></script>
+    <script src="genres/flicksWestern.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
