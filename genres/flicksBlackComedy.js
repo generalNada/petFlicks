@@ -99,7 +99,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/ozw9y6d9coppxu68yyb24/BEING_JOHN_MALKOVICH.mp4?rlkey=x3yu4desargez3ler25x5lzek&dl=1",
   },
   {
-    ref: 352,
+    ref: 353,
     title: "The Big Lebowski",
     year: 1998,
     genre: "Black Comedy",
@@ -198,7 +198,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/had16sexb6oa3pm80s448/COFFEE_AND_CIGARETTES.mp4?rlkey=oobmn7vfu8z8a8dslxn7ppwf9&dl=1",
   },
   {
-    ref: 353,
+    ref: 354,
     title: "The Count of Monte Cristo",
     year: 2002,
     genre: "Black Comedy",
@@ -220,7 +220,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/1s5xbz4plshwnhohozin3/DANGEROUS_LIAISONS.mp4?rlkey=vo4j1j59n538pedluy5ro7z5h&dl=1",
   },
   {
-    ref: 354,
+    ref: 355,
     title: "The Dangerous Lives of Altar Boys",
     year: 2002,
     genre: "Black Comedy",
@@ -231,7 +231,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/gq2j5l129hfq8gqd6tbnv/DANGEROUS_LIVES_OF_ALTAR_BOYS.mp4?rlkey=lbuy417jpg65jun4xk9ie9j5b&dl=1",
   },
   {
-    ref: 355,
+    ref: 356,
     title: "The Darjeeling Limited",
     year: 2007,
     genre: "Black Comedy",
@@ -374,7 +374,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/5zp86aqpfc69322t6tzz1/GLENGARRY_GLENROSS.mp4?rlkey=3v60dytj0a2urdq4ryj9b1ivx&dl=1",
   },
   {
-    ref: 356,
+    ref: 357,
     title: "The Graduate",
     year: 1967,
     genre: "Black Comedy",
@@ -385,7 +385,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/u6tdvf4r6qs66xxkfbufz/GRADUATE.mp4?rlkey=6ccyupqvr7i5qzu04nljxoyfx&dl=1",
   },
   {
-    ref: 357,
+    ref: 358,
     title: "The Grifters",
     year: 1990,
     genre: "Black Comedy",
@@ -441,6 +441,17 @@ const flicksBlackComedy = [
   },
   {
     ref: 334,
+    title: "Heathers",
+    year: 1988,
+    genre: "Black Comedy",
+    collection: "Pet Things",
+    dropboxUrl:
+      "https://www.dropbox.com/scl/fi/h2226j5nsxsbnf3fn53ft/Heathers.mp4?rlkey=fwfrbs26w8dg46fzpynw9u7y0&raw=1",
+    downloadUrl:
+      "https://www.dropbox.com/scl/fi/h2226j5nsxsbnf3fn53ft/Heathers.mp4?rlkey=fwfrbs26w8dg46fzpynw9u7y0&dl=1",
+  },
+  {
+    ref: 335,
     title: "Inglourious Basterds",
     year: 2009,
     genre: "Black Comedy",
@@ -451,7 +462,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/knoq4mja2dhcmq7d7k7ea/INGLOURIOUS_BASTERDS.mp4?rlkey=v42k4mq681r1p7kvosruzui9h&dl=1",
   },
   {
-    ref: 335,
+    ref: 336,
     title: "Kill Bill: Vol. 1",
     year: 2003,
     genre: "Black Comedy",
@@ -462,7 +473,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/gw8fh3d8dpwne7ml0brjx/KILL_BILL_VOL1.mp4?rlkey=1n5ndg1htb4um35jumt40g9sx&dl=1",
   },
   {
-    ref: 336,
+    ref: 337,
     title: "Kill Bill: Vol. 2",
     year: 2004,
     genre: "Black Comedy",
@@ -473,7 +484,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/pnhqmigomyja50hzih8iz/KILL_BILL_VOL2.mp4?rlkey=8iuz5gusnwe7vh3loyz7af1dh&dl=1",
   },
   {
-    ref: 358,
+    ref: 359,
     title: "The King of Comedy",
     year: 1982,
     genre: "Black Comedy",
@@ -484,7 +495,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/272qdwtii4kzdt7gnxtqq/KING_OF_COMEDY.mp4?rlkey=e1akdkkpy5p1xwjygj9aaxnm8&dl=1",
   },
   {
-    ref: 359,
+    ref: 360,
     title: "The Life Aquatic with Steve Zissou",
     year: 2004,
     genre: "Black Comedy",
@@ -495,7 +506,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/360ch9mat5z7hv731qft7/LIFE_AQUATIC.mp4?rlkey=i38f1sthnzeq5nn0x1yvogik2&dl=1",
   },
   {
-    ref: 337,
+    ref: 338,
     title: "Life Is Beautiful",
     year: 1997,
     genre: "Black Comedy",
@@ -506,7 +517,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/ksc6ppk2mhnxjmsviwwqf/LIFE_IS_BEAUTIFUL.mp4?rlkey=k4q0ogy1z8hfdb73t4pdkxd9d&dl=1",
   },
   {
-    ref: 338,
+    ref: 339,
     title: "Lolita",
     year: 1962,
     genre: "Black Comedy",
@@ -517,7 +528,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/j64xp51ibbujv9wwrodlr/LOLITA.mp4?rlkey=cw5qc9ivizx59gzqjhg94wbw3&dl=1",
   },
   {
-    ref: 339,
+    ref: 340,
     title: "Lost Highway",
     year: 1997,
     genre: "Black Comedy",
@@ -528,7 +539,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/wbgzx30cl7ivo7s74uaq9/LOST_HIGHWAY.mp4?rlkey=f1ikmyvfe9wcqaiewha1wui7u&dl=1",
   },
   {
-    ref: 340,
+    ref: 341,
     title: "Man on the Moon",
     year: 1999,
     genre: "Black Comedy",
@@ -539,7 +550,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/zkovbruufcl1rnbquh9g4/MAN_ON_THE_MOON.mp4?rlkey=cov4rwfrlmd95pkufnzkp4lui&dl=1",
   },
   {
-    ref: 341,
+    ref: 342,
     title: "Miller's Crossing",
     year: 1990,
     genre: "Black Comedy",
@@ -550,7 +561,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/0lg1m0f34tksjuadzfcly/MILLERS_CROSSING.mp4?rlkey=vq7ng90lzkj8qemg1kmf696n4&dl=1",
   },
   {
-    ref: 342,
+    ref: 343,
     title: "Moonrise Kingdom",
     year: 2012,
     genre: "Black Comedy",
@@ -561,7 +572,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/kyo2iofvz6rw5uz8jnhp2/MOONRISE_KINGDOM.mp4?rlkey=z1l7r9mcba9ca9hexj5n7a4jg&dl=1",
   },
   {
-    ref: 343,
+    ref: 344,
     title: "Napoleon Dynamite",
     year: 2004,
     genre: "Black Comedy",
@@ -572,7 +583,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/k9gbugz1sn1kchwhulcst/NAPOLEON_DYNAMITE.mp4?rlkey=nfyruzqmwidu9itncmk6e8qgm&dl=1",
   },
   {
-    ref: 344,
+    ref: 345,
     title: "No Country for Old Men",
     year: 2007,
     genre: "Black Comedy",
@@ -583,7 +594,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/cpb5nbiwfr66lazp8psza/NO_COUNTRY_FOR_OLD_MEN.mp4?rlkey=72p7qzf16pz2og2qvvfcv94rl&dl=1",
   },
   {
-    ref: 345,
+    ref: 346,
     title: "O Brother, Where Art Thou?",
     year: 2000,
     genre: "Black Comedy",
@@ -594,7 +605,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/zzy9g5f1hz6ey4xd2yjaa/OH_BROTHER_WHERE_ART_THOU.mp4?rlkey=wzqrzaz95c1w1xvrf9jkvixmh&dl=1",
   },
   {
-    ref: 346,
+    ref: 347,
     title: "Pulp Fiction",
     year: 1994,
     genre: "Black Comedy",
@@ -605,7 +616,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/mzvfqdewq1x06drsmwug9/PULP_FICTION.mp4?rlkey=84tsb8f031o8qjc1e3xehiqia&dl=1",
   },
   {
-    ref: 347,
+    ref: 348,
     title: "Raising Arizona",
     year: 1987,
     genre: "Black Comedy",
@@ -616,7 +627,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/7iqzbsctrdt5wxdq46xlg/RAISING_ARIZONA.mp4?rlkey=0rv42dtfylel5nkdxa9nbavpo&dl=1",
   },
   {
-    ref: 348,
+    ref: 349,
     title: "Reefer Madness",
     year: 1936,
     genre: "Black Comedy",
@@ -627,7 +638,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/tfji5kfc2frfxh6ombqya/REEFER_MADNESS.mp4?rlkey=sn8y7e5h8almlfh7u13umz2aj&dl=1",
   },
   {
-    ref: 349,
+    ref: 350,
     title: "Reservoir Dogs",
     year: 1992,
     genre: "Black Comedy",
@@ -638,7 +649,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/jipzl46b75mfh6wv24zrg/RESERVOIR_DOGS.mp4?rlkey=wwxbj1wmp3o1aqas8tftjmyzk&dl=1",
   },
   {
-    ref: 360,
+    ref: 361,
     title: "The Royal Tenenbaums",
     year: 2001,
     genre: "Black Comedy",
@@ -649,7 +660,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/sw6pqa6xkie52gqm37swm/ROYAL_TENENBAUMS.mp4?rlkey=vnxr88r5w8p9bfnmuu1q3aqht&dl=1",
   },
   {
-    ref: 350,
+    ref: 351,
     title: "Rushmore",
     year: 1998,
     genre: "Black Comedy",
@@ -660,7 +671,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/l6v1z10uk5k8er3zv610c/RUSHMORE.mp4?rlkey=h9ybdmsiwwcn9h7i0ytj7w78j&dl=1",
   },
   {
-    ref: 351,
+    ref: 352,
     title: "Sideways",
     year: 2004,
     genre: "Black Comedy",
@@ -671,7 +682,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/ht9a50tmjjfgx4ar47k3p/SIDEWAYS.mp4?rlkey=swnk6v60cl6k8kok87le4mw3x&dl=1",
   },
   {
-    ref: 361,
+    ref: 362,
     title: "The Squid and the Whale",
     year: 2005,
     genre: "Black Comedy",
@@ -682,7 +693,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/8yc5nerv5ard9g3s6fks7/SQUID_AND_THE_WHALE.mp4?rlkey=47ntp06rj8dz5j4bvi7fmt0qz&dl=1",
   },
   {
-    ref: 363,
+    ref: 364,
     title: "Trainspotting",
     year: 1996,
     genre: "Black Comedy",
@@ -693,7 +704,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/l687imbnaq5vbextexkyb/TRAINSPOTTING.mp4?rlkey=4cjdeba4i84jyhgqb0m6xicpx&dl=1",
   },
   {
-    ref: 365,
+    ref: 366,
     title: "True Romance (Widescreen)",
     year: 1993,
     genre: "Black Comedy",
@@ -704,7 +715,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/z5osyrdytktd4l6zxfmqr/TRUE_ROMANCE_Widescreen.mp4?rlkey=ga5ryqx9sh158apyupfcd91vh&dl=1",
   },
   {
-    ref: 364,
+    ref: 365,
     title: "True Romance",
     year: 1993,
     genre: "Black Comedy",
@@ -715,7 +726,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/zifm28tbdfgg9oaciczhi/TRUE_ROMANCE.mp4?rlkey=u0w1p69yd0o5v6hjjymdtaz6y&dl=1",
   },
   {
-    ref: 366,
+    ref: 367,
     title: "True Stories",
     year: 1986,
     genre: "Black Comedy",
@@ -726,7 +737,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/rjeoakv0h77m1rihdchqh/TRUE_STORIES.mp4?rlkey=8ikfuqzefhxqr4i7owaw74ist&dl=1",
   },
   {
-    ref: 367,
+    ref: 368,
     title: "Truman Show",
     year: 1998,
     genre: "Black Comedy",
@@ -737,7 +748,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/ztw6zzhogmq6gy016p5io/TRUMAN_SHOW.mp4?rlkey=dx3u8z5qt0cqhlkqtfahfcup1&st=7bi3npdm&dl=0",
   },
   {
-    ref: 368,
+    ref: 369,
     title: "Vampires Kiss",
     year: 1998,
     genre: "Black Comedy",
@@ -748,7 +759,7 @@ const flicksBlackComedy = [
       "https://www.dropbox.com/scl/fi/28l3gaqxocs0q3xsmphif/VAMPIRES_KISS.mp4?rlkey=4i6io5d8pwv8ylud49k1lnqfr&st=z0lcvli5&dl=1",
   },
   {
-    ref: 362,
+    ref: 363,
     title: "The Wild Bunch",
     year: 1969,
     genre: "Black Comedy",
