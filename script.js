@@ -273,9 +273,9 @@
     els.progress.value = "0";
     els.timeCurrent.textContent = "0:00";
     els.timeDuration.textContent = "0:00";
+    els.video.pause();
     updatePlayLabel();
     renderTitles();
-    els.video.play().catch(() => updatePlayLabel());
   }
 
   function closePlayer() {
